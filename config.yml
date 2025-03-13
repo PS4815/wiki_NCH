@@ -1,0 +1,7 @@
+db:
+  type: postgres
+  host: dpg-cv9d62rqf0us73at2mo0-a
+  port: 5432
+  user: wikijs_db_focl_user
+  pass: vq6PRbRNs1McEt6nZrcPFFJHj17p1oI6
+  db: wikijs_db_focl
